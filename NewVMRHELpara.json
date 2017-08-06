@@ -18,7 +18,7 @@
             "value": "FortigateProtectedVNet"
         },
         "networkInterfaceName": {
-            "value": "pocamrhelsyslog261"
+            "value": "pocamrhelsyslog262"
         },
         "networkSecurityGroupName": {
             "value": "pocamrhelsyslog1-nsg"
