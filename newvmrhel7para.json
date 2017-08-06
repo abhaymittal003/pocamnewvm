@@ -24,7 +24,7 @@
             "value": "testrhel12-nsg"
         },
         "adminPassword": {
-            "value": null
+            "value": ""
         },
         "storageAccountName": {
             "value": "mfastoragesouth"
