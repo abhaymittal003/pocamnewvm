@@ -21,7 +21,7 @@
             "value": "pocamrhelsyslog261"
         },
         "networkSecurityGroupName": {
-            "value": "pocamrhelsyslog-nsg"
+            "value": "pocamrhelsyslog1-nsg"
         },
         "adminPassword": {
             "value": null
@@ -39,7 +39,7 @@
             "value": "PublicFacingSubnet"
         },
         "publicIpAddressName": {
-            "value": "pocamrhelsyslog-ip"
+            "value": "pocamrhelsyslog1-ip"
         },
         "publicIpAddressType": {
             "value": "Dynamic"
