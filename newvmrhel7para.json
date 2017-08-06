@@ -1,0 +1,48 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "location": {
+            "value": "uksouth"
+        },
+        "virtualMachineName": {
+            "value": "testrhel12"
+        },
+        "virtualMachineSize": {
+            "value": "Basic_A0"
+        },
+        "adminUsername": {
+            "value": "rhelos"
+        },
+        "virtualNetworkName": {
+            "value": "FortigateProtectedVNet"
+        },
+        "networkInterfaceName": {
+            "value": "testrhel12527"
+        },
+        "networkSecurityGroupName": {
+            "value": "testrhel12-nsg"
+        },
+        "adminPassword": {
+            "value": null
+        },
+        "storageAccountName": {
+            "value": "mfastoragesouth"
+        },
+        "diagnosticsStorageAccountName": {
+            "value": "mfastoragesouth"
+        },
+        "diagnosticsStorageAccountId": {
+            "value": "/subscriptions/5d8bf94e-f520-4d04-b9c5-a3a9f4735a26/resourceGroups/hpe/providers/Microsoft.Storage/storageAccounts/mfastoragesouth"
+        },
+        "subnetName": {
+            "value": "20subnet"
+        },
+        "publicIpAddressName": {
+            "value": "testrhel12-ip"
+        },
+        "publicIpAddressType": {
+            "value": "Dynamic"
+        }
+    }
+}
