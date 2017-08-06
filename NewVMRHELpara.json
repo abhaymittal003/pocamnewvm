@@ -24,7 +24,7 @@
             "value": "pocamrhelsyslog1-nsg"
         },
         "adminPassword": {
-            "value": null
+            "value": Password281116
         },
         "storageAccountName": {
             "value": "mfastoragesouth"
