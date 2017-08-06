@@ -6,7 +6,7 @@
             "value": "uksouth"
         },
         "virtualMachineName": {
-            "value": "pocamrhelsyslog"
+            "value": "pocamrhelsyslog1"
         },
         "virtualMachineSize": {
             "value": "Standard_A2"
